@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Select item...",
+    "abbreviation": "Select item..."
+  },
+  {
+    "name": "Less than N50000",
+    "abbreviation": "Less than N50000"
+  },
+  {
+    "name": "N50000 - N250000",
+    "abbreviation": "N50000 - N250000"
+  },
+  {
+    "name": "N250000 - N500000",
+    "abbreviation": "N250000 - N500000"
+  },
+  {
+    "name": "N500000 - N1million",
+    "abbreviation": "N500000 - N1million"
+  },
+  {
+    "name": "N1million - N5million",
+    "abbreviation": "N1million - N5million"
+  },
+  {
+    "name": "N5million - N10million",
+    "abbreviation": "N5million - N10million"
+  },
+  {
+    "name": "N10million - N20million",
+    "abbreviation": "N10million - N20million"
+  },
+  {
+    "name": "More than N20million",
+    "abbreviation": "More than N20million"
+  }
+]

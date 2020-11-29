@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Select item...",
+    "abbreviation": ""
+  },
+  {
+    "name": "Married",
+    "abbreviation": "Married"
+  },
+  {
+    "name": "Single",
+    "abbreviation": "Single"
+  },
+  {
+    "name": "Divorced",
+    "abbreviation": "Divorced"
+  },
+  {
+    "name": "Undisclosed",
+    "abbreviation": "Undisclosed"
+  }
+]

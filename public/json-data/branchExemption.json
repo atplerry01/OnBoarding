@@ -1,0 +1,14 @@
+[
+  {
+    "name": "HO Branch",
+    "code": "999"
+  },
+  {
+    "name": "USSD Branch",
+    "code": "945"
+  },
+  {
+    "name": "ALAT Branch",
+    "code": "800"
+  }
+]

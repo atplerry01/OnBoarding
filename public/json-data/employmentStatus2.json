@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Select item...",
+    "abbreviation": "Select item..."
+  },
+  {
+    "name": "Home Maker",
+    "abbreviation": "Home Maker"
+  },
+  {
+    "name": "Student",
+    "abbreviation": "Student"
+  },
+  {
+    "name": "Retired",
+    "abbreviation": "Retired"
+  },
+  {
+    "name": "Others",
+    "abbreviation": "Others"
+  }
+]

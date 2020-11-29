@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Select item...",
+    "abbreviation": "Select item..."
+  },
+  {
+    "name": "National ID",
+    "abbreviation": "National ID"
+  },
+  {
+    "name": "Permanent Voters ID",
+    "abbreviation": "Permanent Voters ID"
+  },
+  {
+    "name": "Drivers license",
+    "abbreviation": "Drivers license"
+  },
+  {
+    "name": "International Passport",
+    "abbreviation": "International Passport"
+  },
+  {
+    "name": "School ID card",
+    "abbreviation": "School ID card"
+  },
+  {
+    "name": "Other ID Types",
+    "abbreviation": "Other ID Types"
+  },
+  {
+    "name": "None",
+    "abbreviation": "None"
+  }
+]
